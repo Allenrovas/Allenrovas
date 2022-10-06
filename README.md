@@ -14,7 +14,7 @@
       </h2>
       <h3 align="left">Contacta conmigo:</h3>
         <p align="left">
-          <a href="mailto:algirova@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:algirova@gmail.com"/>algirova@gmail.com
+          <a href="mailto:algirova@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:algirova@gmail.com"/></a> algirova@gmail.com
         </p>
     </th>
       <th style="border: hidden"><img src=https://github.com/Allenrovas/Allenrovas/blob/main/DSC_4914.JPG></th>
