@@ -58,9 +58,5 @@
       <th style="border: hidden"><img src=https://github.com/Allenrovas/Allenrovas/blob/main/DSC_4914.JPG></th>
     </tr>
 </table>
-<p dir="auto" align="center">
-  <a href="https://spotify-github-profile.vercel.app/api/view?uid=12135413076&redirect=true" rel="nofollow">
-    <img src="(https://spotify-github-profile.vercel.app/api/view?uid=12135413076&cover_image=true&theme=default&show_offline=false&bar_color_cover=true&link=https://spotify-github-profile.vercel.app/api/view?uid=12135413076&redirect=true"alt="spotify-github-profile" data-canonical-src="https://spotify-github-profile.vercel.app/api/view?uid=12135413076&cover_image=true&theme=default&show_offline=false&bar_color_cover=true">
-  </a>
-</p>
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12135413076&cover_image=true&theme=default&show_offline=false&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
