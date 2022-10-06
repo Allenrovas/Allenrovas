@@ -58,4 +58,8 @@
       <th style="border: hidden"><img src=https://github.com/Allenrovas/Allenrovas/blob/main/DSC_4914.JPG></th>
     </tr>
 </table>
+<p dir="auto" align="center">
+  <a href="https://spotify-github-profile.vercel.app/api/view?uid=12135413076&cover_image=true&theme=default&show_offline=false)](https://github.com/kittinan/spotify-github-profile" rel="nofollow">
+  </a>
+</p>
 
