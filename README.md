@@ -3,7 +3,7 @@
 </h1>
 <!--
 **Allenrovas/Allenrovas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<p>Soy una persona que le gusta aprender mucho de la tecnología, me gustan los videojuegos, escuchar música, armar cubos de Rubik, coleccionar Funkos, ver la Fórmula 1 y jugar tenis.:tennis: </p>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
