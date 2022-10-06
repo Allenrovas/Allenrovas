@@ -5,7 +5,7 @@
 
 <table align="center" style="border: hidden">
     <tr style="border: hidden">
-    <th style="border: hidden">
+    <th style="border: hidden" colspan="1">
       <h3 align="center">:racing_car:Soy una persona que le gusta aprender mucho de la tecnología, me gustan los videojuegos, escuchar música, armar cubos de Rubik,           coleccionar Funkos, ver la Fórmula 1 y jugar tenis.:tennis: 
       </h3>
       <h3 align="center">:nerd_face:
