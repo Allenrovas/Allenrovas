@@ -6,12 +6,12 @@
 <table align="center" style="border: hidden">
     <tr style="border: hidden">
     <th style="border: hidden">
-      <h2 align="center">:racing_car:Soy una persona que le gusta aprender mucho de la tecnología, me gustan los videojuegos, escuchar música, armar cubos de Rubik,           coleccionar Funkos, ver la Fórmula 1 y jugar tenis.:tennis: 
-      </h2>
-      <h2 align="center">:nerd_face:
+      <h3 align="center">:racing_car:Soy una persona que le gusta aprender mucho de la tecnología, me gustan los videojuegos, escuchar música, armar cubos de Rubik,           coleccionar Funkos, ver la Fórmula 1 y jugar tenis.:tennis: 
+      </h3>
+      <h3 align="center">:nerd_face:
       Estudiante de Ingeniería en Ciencias y Sistemas de la Universidad de San Carlos de Guatemala.
       :electron:
-      </h2>
+      </h3>
       <h3 align="center">Contacta conmigo:</h3>
         <p align="center">
           <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:algirova@gmail.com">
