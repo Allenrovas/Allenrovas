@@ -64,8 +64,8 @@
   </a>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Allenrovas&show_icons=true&theme=synthwave" alt="">
+  <img src="https://github-readme-stats.vercel.app/api?username=Allenrovas&show_icons=true&theme=tokyonight" alt="">
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=tokyonight" alt="">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Allenrovas&layout=tokyonight" alt="">
 </p>
