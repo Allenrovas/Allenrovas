@@ -16,9 +16,12 @@
         <p align="left">
           <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:algirova@gmail.com">
           <img src="https://img.shields.io/badge/-algirova%40gmail.com-D14836">
-          <a href="https://twitter.com/allenrovas"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/allenrovas">
-          <a href="https://www.instagram.com/allenrovas"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white & https://www.instagram.com/allenrovas">
-          <a href="https://www.linkedin.com/in/allenrovas"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/allenrovas">
+          <a href="https://twitter.com/allenrovas"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/allenrovas"></a>
+          <a href="https://www.instagram.com/allenrovas"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white & https://www.instagram.com/allenrovas"></a>
+          <a href="https://www.linkedin.com/in/allenrovas"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/allenrovas"></a>
+          <a href="https://www.facebook.com/allenrovass/"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white&link=https://www.facebook.com/allenrovass/"></a>
+          <a href="https://www.snapchat.com/add/allenrovas"><img src="https://img.shields.io/badge/Snapchat-%23FFFC00.svg?style=for-the-badge&logo=Snapchat&logoColor=white&link=https://www.snapchat.com/add/allenrovas"></a>    
+
         </p>
     </th>
       <th style="border: hidden"><img src=https://github.com/Allenrovas/Allenrovas/blob/main/DSC_4914.JPG></th>
