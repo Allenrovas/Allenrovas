@@ -27,14 +27,34 @@
           <img src="https://img.shields.io/badge/-Allenrovas77-000000">
           <img src="https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white">
           <img src="https://img.shields.io/badge/-Allenrovas-313131">
+          <img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white">
+          <img src="https://img.shields.io/badge/-Allenrovas-000000">
+          <img src="https://img.shields.io/badge/Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white">
+          <img src="https://img.shields.io/badge/-Allenrovas-E60012">
+          <a href="https://open.spotify.com/user/12135413076?si=9JEWrxQxSMmg2fn8p9871g&utm_source=copy-link"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white&linkhttps://open.spotify.com/user/12135413076?si=9JEWrxQxSMmg2fn8p9871g&utm_source=copy-link"></a>
+          
         </p>
       <h3 align="center">Developer:</h3>
       <img src="https://camo.githubusercontent.com/2c4e8165a40bc73e6e5e31681ca0a6be556d0274df98f38f77863ea59003f05a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4f706572615f47582d6666303030303f7374796c653d666c61742d737175617265266c6f676f3d6f70657261266c6f676f436f6c6f723d7768697465">
       <img src="https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white">
       <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white">
       <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white">
+      <img src="https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white">
+      <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white">
+      <img src="https://img.shields.io/badge/CLion-black?style=for-the-badge&logo=clion&logoColor=white">
+      <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
+      <img src="https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white">
+      <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+      <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+      <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+      <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+      <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">
+      <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+      <img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white">
+      <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
     </th>
       <th style="border: hidden"><img src=https://github.com/Allenrovas/Allenrovas/blob/main/DSC_4914.JPG></th>
     </tr>
 </table>   
+
  
