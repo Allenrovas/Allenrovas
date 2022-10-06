@@ -77,3 +77,4 @@
     </th>
   </tr>
 </table>
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12135413076&cover_image=true&theme=default&show_offline=false&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
