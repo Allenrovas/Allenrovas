@@ -5,7 +5,7 @@
 
 <table align="center" style="border: hidden">
     <tr style="border: hidden">
-    <th style="border: hidden" colspan="1">
+    <th style="border: hidden" >
       <h3 align="center">:racing_car:Soy una persona que le gusta aprender mucho de la tecnología, me gustan los videojuegos, escuchar música, armar cubos de Rubik,           coleccionar Funkos, ver la Fórmula 1 y jugar tenis.:tennis: 
       </h3>
       <h3 align="center">:nerd_face:
@@ -55,7 +55,7 @@
       <img src="https://img.shields.io/badge/-Zorin%20OS-%2310AAEB?style=for-the-badge&logo=zorin&logoColor=white">
       <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
     </th>
-      <th style="border: hidden" colspan="2"><img src=https://github.com/Allenrovas/Allenrovas/blob/main/DSC_4914.JPG></th>
+      <th style="border: hidden" style="max-width: 125%><img src=https://github.com/Allenrovas/Allenrovas/blob/main/DSC_4914.JPG></th>
     </tr>
 </table>
 <p dir="auto" align="center">
