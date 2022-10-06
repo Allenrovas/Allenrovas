@@ -1,10 +1,7 @@
 <h1 align="center">   
   Hello there, this is Allen Roman 👋
 </h1>
-<!--
-**Allenrovas/Allenrovas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<p>Soy una persona que le gusta aprender mucho de la tecnología, me gustan los videojuegos, escuchar música, armar cubos de Rubik, coleccionar Funkos, ver la Fórmula 1 y jugar tenis.:tennis: </p>
-Here are some ideas to get you started:
+<!--Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -15,3 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+**Allenrovas/Allenrovas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>Soy una persona que le gusta aprender mucho de la tecnología, me gustan los videojuegos, escuchar música, armar cubos de Rubik, coleccionar Funkos, ver la Fórmula 1 y jugar tenis.:tennis: </p>
