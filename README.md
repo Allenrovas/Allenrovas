@@ -63,9 +63,17 @@
     <img src="https://spotify-github-profile.vercel.app/api/view?uid=12135413076&cover_image=true&theme=default&show_offline=false&bar_color_cover=true&link=https://spotify-github-profile.vercel.app/api/view?uid=12135413076&redirect=true"alt="spotify-github-profile" data-canonical-src="https://spotify-github-profile.vercel.app/api/view?uid=12135413076&cover_image=true&theme=default&show_offline=false&bar_color_cover=true">
   </a>
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Allenrovas&show_icons=true&theme=tokyonight" alt="">
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Allenrovas&layout=tokyonight" alt="">
-</p>
+<table align="center" style="border: hidden">
+  <tr style="border: hidden">
+  <th style="border: hidden">
+    <p align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=Allenrovas&show_icons=true&theme=radical" alt="">
+    </p>
+  </th>
+    <th style="border: hidden">
+      <p align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Allenrovas&layout=compact&show_icons=true&theme=radical" alt="">
+      </p>
+    </th>
+  </tr>
+</table>
