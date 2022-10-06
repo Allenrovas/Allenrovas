@@ -31,7 +31,7 @@
           <img src="https://img.shields.io/badge/-Allenrovas-000000">
           <img src="https://img.shields.io/badge/Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white">
           <img src="https://img.shields.io/badge/-Allenrovas-E60012">
-          <a href="https://open.spotify.com/user/12135413076?si=9JEWrxQxSMmg2fn8p9871g&utm_source=copy-link"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white&linkhttps://open.spotify.com/user/12135413076?si=9JEWrxQxSMmg2fn8p9871g&utm_source=copy-link"></a>    
+          <a href="https://open.spotify.com/user/12135413076?si=9JEWrxQxSMmg2fn8p9871g&utm_source=copy-link"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white&linkhttps://open.spotify.com/user/12135413076?si=9JEWrxQxSMmg2fn8p9871g&utm_source=copy-link"></a>     
         </p>
       <h3 align="center">Developer:</h3>
       <img src="https://camo.githubusercontent.com/2c4e8165a40bc73e6e5e31681ca0a6be556d0274df98f38f77863ea59003f05a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4f706572615f47582d6666303030303f7374796c653d666c61742d737175617265266c6f676f3d6f70657261266c6f676f436f6c6f723d7768697465">
@@ -51,9 +51,10 @@
       <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
       <img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white">
       <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+      <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+      <img src="https://img.shields.io/badge/-Zorin%20OS-%2310AAEB?style=for-the-badge&logo=zorin&logoColor=white">
+      <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
     </th>
       <th style="border: hidden"><img src=https://github.com/Allenrovas/Allenrovas/blob/main/DSC_4914.JPG></th>
     </tr>
 </table>   
-
- 
