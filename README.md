@@ -1,5 +1,11 @@
-<h1 align="center">   
-  https://raw.githubusercontent.com/sidbelbase/sidbelbase/master/wave.gif Hello there, this is Allen Giankarlo Román https://raw.githubusercontent.com/sidbelbase/sidbelbase/master/wave.gif
+<h1 align="center">
+  <h2><img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" height="25"> My Github Stats</h2>
+<img align="left" alt="esnorki2008's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rodrialeh01&theme=chartreuse-dark&show_icons=true"/>
+
+   Hello there, this is Allen Giankarlo Román 
+  <h2><img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" height="25"> My Github Stats</h2>
+<img align="right" alt="esnorki2008's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rodrialeh01&theme=chartreuse-dark&show_icons=true"/>
+
 </h1>
 
 
