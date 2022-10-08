@@ -1,5 +1,5 @@
 <h1 align="center">   
-  👋 Hello there, this is Allen Giankarlo Román 👋
+  https://raw.githubusercontent.com/sidbelbase/sidbelbase/master/wave.gif Hello there, this is Allen Giankarlo Román https://raw.githubusercontent.com/sidbelbase/sidbelbase/master/wave.gif
 </h1>
 
 
