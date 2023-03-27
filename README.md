@@ -78,6 +78,9 @@
       </p>
     </th>
   </tr>
+  <tr style="border: hidden">
+    [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Allenrovas&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  </tr>
 </table>
 
 
