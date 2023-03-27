@@ -82,7 +82,7 @@
     <th style="border: hidden">
       <p align="center">
       
-        <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Allenrovas&theme=dracula" alt="">
+        <link src="https://github-readme-activity-graph.cyclic.app/graph?username=Allenrovas&theme=dracula" alt="">
       </p>
       </th>
   </tr>
