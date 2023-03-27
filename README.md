@@ -69,7 +69,7 @@
   <tr style="border: hidden">
   <th style="border: hidden">
     <p align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=Allenrovas&show_icons=true&theme=radical" alt="">
+      <img src="https://github-readme-stats.vercel.app/api?username=Allenrovas&show_icons=true&theme=dracula" alt="">
     </p>
   </th>
     <th style="border: hidden">
@@ -78,14 +78,7 @@
       </p>
     </th>
   </tr>
-  <tr style="border: hidden">
-    <th style="border: hidden">
-      <p align="center">
-      
-        <link src="https://github-readme-activity-graph.cyclic.app/graph?username=Allenrovas&theme=dracula" alt="">
-      </p>
-      </th>
-  </tr>
+ 
 </table>
-
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=Allenrovas&theme=dracula">
 
