@@ -74,12 +74,17 @@
   </th>
     <th style="border: hidden">
       <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Allenrovas&layout=compact&show_icons=true&theme=radical" alt="">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Allenrovas&layout=compact&show_icons=true&theme=dracula" alt="">
       </p>
     </th>
   </tr>
   <tr style="border: hidden">
-    [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Allenrovas&theme=dracula)](https://github.com/Allenrovas/github-readme-activity-graph)
+    <th style="border: hidden">
+      <p align="center">
+      
+        <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Allenrovas&theme=dracula" alt="">
+      </p>
+      </th>
   </tr>
 </table>
 
