@@ -60,11 +60,6 @@
       <th style="border: hidden" style="max-width: 120%"><img src=https://github.com/Allenrovas/Allenrovas/blob/main/DSC_4914.JPG></th>
     </tr>
 </table>
-<p dir="auto" align="center">
-  <a href="https://spotify-github-profile.vercel.app/api/view?uid=12135413076&redirect=true" rel="nofollow">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=12135413076&cover_image=true&theme=default&show_offline=false&bar_color_cover=true" alt="spotify-github-profile" data-canonical-src="https://spotify-github-profile.vercel.app/api/view?uid=12135413076&cover_image=true&theme=default&show_offline=false&bar_color_cover=true">
-  </a>
-</p>
 <table align="center" style="border: hidden">
   <tr style="border: hidden">
   <th style="border: hidden">
@@ -81,4 +76,9 @@
  
 </table>
 <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Allenrovas&theme=dracula">
+<p dir="auto" align="center">
+  <a href="https://spotify-github-profile.vercel.app/api/view?uid=12135413076&redirect=true" rel="nofollow">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=12135413076&cover_image=true&theme=default&show_offline=false&bar_color_cover=true" alt="spotify-github-profile" data-canonical-src="https://spotify-github-profile.vercel.app/api/view?uid=12135413076&cover_image=true&theme=default&show_offline=false&bar_color_cover=true">
+  </a>
+</p>
 
