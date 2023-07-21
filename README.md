@@ -75,7 +75,7 @@
   </tr>
  
 </table>
-<img src="[https://github-readme-activity-graph.cyclic.app/graph?username=Allenrovas&theme=dracula](https://github-readme-activity-graph.vercel.app/graph?username=Allenrovas&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Allenrovas&theme=dracula">
 <p dir="auto" align="center">
   <a href="https://spotify-github-profile.vercel.app/api/view?uid=12135413076&redirect=true" rel="nofollow">
     <img src="https://spotify-github-profile.vercel.app/api/view?uid=12135413076&cover_image=true&theme=default&show_offline=false&bar_color_cover=true" alt="spotify-github-profile" data-canonical-src="https://spotify-github-profile.vercel.app/api/view?uid=12135413076&cover_image=true&theme=default&show_offline=false&bar_color_cover=true">
