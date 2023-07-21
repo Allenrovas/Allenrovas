@@ -23,18 +23,11 @@
           <a href="https://twitter.com/allenrovas"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/allenrovas"></a>
           <a href="https://www.instagram.com/allenrovas"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white & https://www.instagram.com/allenrovas"></a>
           <a href="https://www.linkedin.com/in/allenrovas"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/allenrovas"></a>
-          <a href="https://www.facebook.com/allenrovass/"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white&link=https://www.facebook.com/allenrovass/"></a>
-          <a href="https://www.snapchat.com/add/allenrovas"><img src="https://img.shields.io/badge/Snapchat-%23FFFC00.svg?style=for-the-badge&logo=Snapchat&logoColor=white&link=https://www.snapchat.com/add/allenrovas"></a>    
-          <a href="https://t.me/Allenrovas"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/Allenrovas"></a>
-          <a href="https://www.twitch.tv/allenrovas"><img src="https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white&link=https://www.twitch.tv/allenrovas"></a>
-          <img src="https://img.shields.io/badge/ea-%23000000.svg?style=for-the-badge&logo=ea&logoColor=white">
-          <img src="https://img.shields.io/badge/-Allenrovas77-000000">
-          <img src="https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white">
-          <img src="https://img.shields.io/badge/-Allenrovas-313131">
-          <img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white">
-          <img src="https://img.shields.io/badge/-Allenrovas-000000">
-          <img src="https://img.shields.io/badge/Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white">
-          <img src="https://img.shields.io/badge/-Allenrovas-E60012">
+          
+      
+          
+          
+          
           <a href="https://open.spotify.com/user/12135413076?si=9JEWrxQxSMmg2fn8p9871g&utm_source=copy-link"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white&linkhttps://open.spotify.com/user/12135413076?si=9JEWrxQxSMmg2fn8p9871g&utm_source=copy-link"></a>     
         </p>
       <h3 align="center">Developer:</h3>
