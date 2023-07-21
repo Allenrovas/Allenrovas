@@ -80,9 +80,7 @@
   </tr>
  
 </table>
-
-<! -– <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Allenrovas&theme=dracula"> -–>
-
+<!-- <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Allenrovas&theme=dracula"> -->
 <p dir="auto" align="center">
   <a href="https://spotify-github-profile.vercel.app/api/view?uid=12135413076&redirect=true" rel="nofollow">
     <img src="https://spotify-github-profile.vercel.app/api/view?uid=12135413076&cover_image=true&theme=default&show_offline=false&bar_color_cover=true" alt="spotify-github-profile" data-canonical-src="https://spotify-github-profile.vercel.app/api/view?uid=12135413076&cover_image=true&theme=default&show_offline=false&bar_color_cover=true">
