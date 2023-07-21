@@ -75,8 +75,8 @@
   </tr>
  
 </table>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Allenrovas&theme=dracula">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Allenrovas&theme=dracula&hide_border=true">
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Allenrovas&theme=dracula">
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Allenrovas&theme=dracula&hide_border=true">
 <p dir="auto" align="center">
   <a href="https://spotify-github-profile.vercel.app/api/view?uid=12135413076&redirect=true" rel="nofollow">
     <img src="https://spotify-github-profile.vercel.app/api/view?uid=12135413076&cover_image=true&theme=default&show_offline=false&bar_color_cover=true" alt="spotify-github-profile" data-canonical-src="https://spotify-github-profile.vercel.app/api/view?uid=12135413076&cover_image=true&theme=default&show_offline=false&bar_color_cover=true">
