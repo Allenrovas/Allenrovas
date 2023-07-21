@@ -74,7 +74,7 @@
     </th>
   </tr>
   <tr style="border: hidden">
-    <th style="border: hidden">
+    <th colspan="2" style="border: hidden">
       <img dir="auto" align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Allenrovas&theme=dracula&hide_border=true">
     </th>
   </tr>
