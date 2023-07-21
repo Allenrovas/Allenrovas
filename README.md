@@ -23,13 +23,8 @@
           <a href="https://twitter.com/allenrovas"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/allenrovas"></a>
           <a href="https://www.instagram.com/allenrovas"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white & https://www.instagram.com/allenrovas"></a>
           <a href="https://www.linkedin.com/in/allenrovas"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/allenrovas"></a>
-          
-      
-          
-          
-          
-          <a href="https://open.spotify.com/user/12135413076?si=9JEWrxQxSMmg2fn8p9871g&utm_source=copy-link"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white&linkhttps://open.spotify.com/user/12135413076?si=9JEWrxQxSMmg2fn8p9871g&utm_source=copy-link"></a>     
-        </p>
+           <a href="https://open.spotify.com/user/12135413076?si=9JEWrxQxSMmg2fn8p9871g&utm_source=copy-link"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white&linkhttps://open.spotify.com/user/12135413076?si=9JEWrxQxSMmg2fn8p9871g&utm_source=copy-link"></a>   
+       </p>
       <h3 align="center">Developer:</h3>
       <img src="https://camo.githubusercontent.com/2c4e8165a40bc73e6e5e31681ca0a6be556d0274df98f38f77863ea59003f05a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4f706572615f47582d6666303030303f7374796c653d666c61742d737175617265266c6f676f3d6f70657261266c6f676f436f6c6f723d7768697465">
       <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white">
